@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 
-export default class $component extends Component {
+export default class $name extends Component {
   render() {
-    return '测试'
+    return <div>测试</div>
   }
 }
